@@ -27,3 +27,9 @@ This project explores AI-assisted storytelling, cinematic experimentation and ge
 - Dynamic storytelling workflows
 - Experimental visual prompting systems
 - Creative automation pipelines
+## Planned Features
+
+- AI workflow templates
+- Prompt optimization systems
+- Automated publishing pipelines
+- Experimental content structures
