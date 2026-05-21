@@ -21,3 +21,9 @@ A hyper-realistic Viking standing in a storm on a wooden ship, cinematic lightin
 ## Goals
 
 This project explores AI-assisted storytelling, cinematic experimentation and generative media workflows.
+## Future Updates
+
+- AI-directed cinematic scene generation
+- Dynamic storytelling workflows
+- Experimental visual prompting systems
+- Creative automation pipelines
